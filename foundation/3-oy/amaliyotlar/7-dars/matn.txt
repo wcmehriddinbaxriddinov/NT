@@ -1,0 +1,3 @@
+Ism: nima 
+Familiya : nimadirov 
+Yosh : 15
